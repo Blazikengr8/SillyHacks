@@ -1,6 +1,7 @@
-# birdflap
+# Submission for Silly Hacks
 
-A new Flutter application.
+A new Flutter application.README will be updated later
+
 
 ## Getting Started
 
