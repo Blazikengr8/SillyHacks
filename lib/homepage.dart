@@ -18,6 +18,8 @@ class _HomePageState extends State<HomePage> {
   static double barrierXone = 1;
   double barrierXtwo = barrierXone + 1.2;
 
+  int counter = 0;
+
   void jump() {
     setState(() {
       time = 0;
@@ -60,9 +62,9 @@ class _HomePageState extends State<HomePage> {
     return GestureDetector(
       onTap: () {
         if (gameHasStarted) {
-          jump();
+          jump();counter++;
         } else {
-          startGame();
+          startGame();counter++;
         }
       },
       child: Scaffold(
@@ -139,7 +141,8 @@ class _HomePageState extends State<HomePage> {
                           height: 20,
                         ),
                         Text(
-                          "0",
+                          counter.toString(),
+                          //"0",
                           style: TextStyle(color: Colors.white, fontSize: 35),
                         )
                       ],
