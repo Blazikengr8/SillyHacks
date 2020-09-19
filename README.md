@@ -1,17 +1,25 @@
 # Submission for Silly Hacks
+<h1 align= "center"><b>Bird Flap</b></h1>
 
-A new Flutter application.README will be updated later
+This is the official submission of Suvodeep Sinha for the Silly Hacks project. This is the adaptation of the popular game "Flappy Bird" but made and developed entirely in flutter. The main task is to help dodge the barriers and achieve the maximum score possible with the bird carefully
 
+<p align="center"><img width=25% src="https://media.giphy.com/media/bfg1PLZ5rn72yNmGJq/giphy.gif"></p>
 
-## Getting Started
+<h2 align= "center"><b>App Download Link</b></h2>
 
-This project is a starting point for a Flutter application.
+<p align="center"><b>http://bit.ly/birdflapp</b></p>
 
-A few resources to get you started if this is your first Flutter project:
+**Tech Stack Used**:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Flutter : for making the entire application
+- Dart dev tools and packages
+- Tools from Github Developer Pack
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Project Maintainer**:
+
+<p align="left">
+<img width=20% src="https://avatars1.githubusercontent.com/u/52796258">&ensp;&ensp;&ensp;
+
+</p>
+<a href="https://github.com/Suvoo">
+<h4 align="left"><b>Suvodeep Sinha</b></a>
