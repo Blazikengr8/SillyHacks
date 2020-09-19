@@ -158,7 +158,7 @@ class _HomePageState extends State<HomePage> {
                           height: 20,
                         ),
                         Text(
-                          "10",
+                          "24",
                           style: TextStyle(color: Colors.white, fontSize: 35),
                         )
                       ],
